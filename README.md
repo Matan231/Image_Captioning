@@ -1,7 +1,8 @@
 # Image Captioning
 ## Overview
 In image captioning the goal is to describes a given image in nutural langauge.
-for exemple:
+
+The model is traind on Flickr8k Dataset from [here](https://www.kaggle.com/adityajn105/flickr8k/activity)
 ## Model architecture
 
 **Encoder**
@@ -22,4 +23,12 @@ Adam optimizer
 
 ## Examples
 
+![alt text](https://github.com/Matan231/Image_Captioning/blob/main/examples/image1PNG.PNG)
 
+![alt text](https://github.com/Matan231/Image_Captioning/blob/main/examples/image2PNG.PNG)
+
+![alt text](https://github.com/Matan231/Image_Captioning/blob/main/examples/image3PNG.PNG)
+
+### failing exemple
+
+![alt text](https://github.com/Matan231/Image_Captioning/blob/main/examples/image_failing_example.PNG)
